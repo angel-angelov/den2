@@ -10,7 +10,11 @@ namespace _2
     {
         static void Main(string[] args)
         {
+<<<<<<< .mine
             Console.WriteLine("Hello! az se kazvam ivANCHO ");
+=======
+            Console.WriteLine("Hello! I`m Pencho!");
+>>>>>>> .theirs
 
         }
     }
